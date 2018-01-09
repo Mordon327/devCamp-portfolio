@@ -187,6 +187,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, {
 
 .app-card-container > .card {
   padding: 40px;
+  margin-top: 4%;
 }
 
 .app-card-container a {
@@ -295,6 +296,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, {
 
 .bottom-spaced {
   margin-bottom: 5%;
+  z-index: 100;
+  position:relative;
 }
 
 
